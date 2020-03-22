@@ -1,4 +1,5 @@
-# For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-Elimination algorithm to output a description of the set of all Hypotheses consistent with the training examples.
+# For a given set of training data examples stored in a .CSV file, 
+# implement and demonstrate the Candidate-Elimination algorithm to output a description of the set of all Hypotheses consistent with the training examples.
 
 
 
