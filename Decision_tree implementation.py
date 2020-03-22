@@ -6,7 +6,7 @@
  
  
  
- import math
+import math
 import csv
 
 def load_csv(filename):
