@@ -1,5 +1,6 @@
-# Write a program to implement the naïve Bayesian classifier for a sample training data set stored as a .CSV file. 
-# Compute the accuracy of the classifier, considering few test data sets.
+# Assuming a set of documents that need to be classified, use the naïve Bayesian Classifier model to perform this task. 
+# Built-in Java classes/API can be used to write the program. 
+# Calculate the accuracy, precision, and recall for your data set.
 
 
 
