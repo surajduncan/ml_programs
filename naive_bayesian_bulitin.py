@@ -9,8 +9,6 @@
 
 
 
-
-
 import pandas as pd
 msg=pd.read_csv('naivebuiltin.csv',header=None,names=['message','label'],)
 print('The dimensions of the dataset',msg.shape)
